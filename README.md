@@ -14,7 +14,7 @@ It's a modern, emoji-supported **To-Do List GUI application** using Python and T
 - 💾 Save tasks to `tasks.txt` file
 - 🔁 Load saved tasks on startup
 - 📅 Display today’s date at the top
-- 🎨 Clean, emoji-based modern UI
+- 🎨 Clean, emoji-based modern UI 
 
 ---
 
