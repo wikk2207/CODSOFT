@@ -1,35 +1,18 @@
-# CODSOFT Internship – Task 1: To-Do List GUI App
+# CODSOFT Internship Projects
 
-This is my submission for **Task 1** of the **Python Programming Internship by CODSOFT**.
-
-It's a modern, emoji-supported **To-Do List GUI application** using Python and Tkinter.
+This repository contains all the GUI-based Python projects developed during the CodSoft Internship.
 
 ---
 
-## 🚀 Features
+## ✅ Task 1: To-Do App
+- Description: A GUI-based to-do list using Tkinter.
+- Features: Add/Delete tasks, scrollbar, input validation.
 
-- ➕ Add new tasks
-- ✅ Mark tasks as Done or ⏳ Pending
-- 🗑 Delete selected task
-- 💾 Save tasks to `tasks.txt` file
-- 🔁 Load saved tasks on startup
-- 📅 Display today’s date at the top
-- 🎨 Clean, emoji-based modern UI 
+## ✅ Task 2: Calculator App
+- Description: Anime-style calculator GUI using CustomTkinter.
+- Features: Soft themes, aesthetic UI, responsive layout.
 
 ---
 
-## 🛠 Tech Stack
+> More tasks will be added as the internship progresses.
 
-- Python 3.x
-- Tkinter GUI Library
-- File I/O (for task persistence)
-- datetime module
-
----
-
-## 💡 How to Run the App
-
-Make sure you have Python installed.
-
-```bash
-python todo_gui.py
