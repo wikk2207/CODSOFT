@@ -1,4 +1,4 @@
-✨ CODSOFT Internship Projects
+##✨ CODSOFT Internship Projects##
 This repository contains all the GUI-based Python projects developed during the CodSoft Internship.
 
 ✅ Task 1: To-Do List App 📝
